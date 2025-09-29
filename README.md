@@ -1,9 +1,6 @@
 <div align="center">
-  <img src="Github Banner.png" width="200" height="200" style="border-radius:50%" />
+  <img src="Github Banner.png" width="100%" style="max-width:900px;" />
 </div>
-
-
-
 
 ###
 
@@ -12,8 +9,8 @@
 ###
 
 <p align="center">
-  I’m a <b>Senior Software Engineer</b> from India, passionate about building scalable web & mobile apps.  
-  <br>Founder & CEO of <a href="https://elitekods.com/" target="_blank">EliteKods</a> and <a href="https://profolionet.com/" target="_blank">Profolionet</a>.  
+  I’m a passionate <b>Software Engineer</b> from India, focused on building efficient and user-friendly web & mobile applications.  
+  <br>I enjoy solving real-world problems with clean code and modern technologies.  
 </p>
 
 ---
@@ -21,10 +18,10 @@
 <h2 align="left">🚀 About Me</h2>
 
 <p align="left">
-✨ Started coding at 15 (and yes, creating bugs since then 😄)<br>
-📚 Currently exploring <b>AI & Cloud solutions</b><br>
-💬 Ask me about <b>MERN</b> & <b>MEAN</b> stacks<br>
-⚡ Fun fact: I believe clean code is a developer’s love language 💙
+✨ Constant learner, always exploring new technologies<br>
+📚 Currently diving deeper into <b>Cloud Computing & DevOps</b><br>
+💬 Ask me about <b>React.js, React Native, Python, SQL, and REST APIs</b><br>
+⚡ Fun fact: I believe <i>good UI/UX + solid backend</i> makes the perfect app ⚡
 </p>
 
 ---
@@ -33,15 +30,13 @@
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="TypeScript" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="React" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="40" alt="Angular" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="Node.js" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" alt="Express" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="MongoDB" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" height="40" alt="React Native" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="MySQL" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="MongoDB" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/aws/aws-original.svg" height="40" alt="AWS" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="Docker" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git" />
 </div>
 
 ---
@@ -51,9 +46,6 @@
 <div align="left">
   <a href="https://www.linkedin.com/in/YOUR-LINKEDIN" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="LinkedIn" />
-  </a>
-  <a href="https://instagram.com/YOUR-INSTAGRAM" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="Instagram" />
   </a>
   <a href="mailto:yourname@email.com">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="Email" />
