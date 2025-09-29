@@ -1,6 +1,7 @@
 <div align="center">
-  <img src="https://drive.google.com/uc?export=view&id=1RYoWm_1ex5C1Hlb5EJE3OJLzG2QsJ5-Z" width="200" height="200" style="border-radius:50%" />
+  <img src="Github Banner.png" width="200" height="200" style="border-radius:50%" />
 </div>
+
 
 
 
