@@ -51,12 +51,3 @@
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="Email" />
   </a>
 </div>
-
----
-
-<h2 align="left">📊 GitHub at a Glance</h2>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=itsamankr&show_icons=true&hide_border=true&count_private=true" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=itsamankr&layout=compact&hide_border=true" height="180" />
-</div>
